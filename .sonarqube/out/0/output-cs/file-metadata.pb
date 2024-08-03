@@ -1,0 +1,9 @@
+N
+E/home/azadmin/docker-dotnet-k8s-app/Controllers/StudentsController.csutf-8>
+5/home/azadmin/docker-dotnet-k8s-app/Models/Student.csutf-8E
+</home/azadmin/docker-dotnet-k8s-app/Models/StudentContext.csutf-87
+./home/azadmin/docker-dotnet-k8s-app/Program.csutf-8\
+Q/home/azadmin/docker-dotnet-k8s-app/obj/Debug/net8.0/StudentApp.GlobalUsings.g.csutf-8n
+c/home/azadmin/docker-dotnet-k8s-app/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8Z
+O/home/azadmin/docker-dotnet-k8s-app/obj/Debug/net8.0/StudentApp.AssemblyInfo.csutf-8m
+b/home/azadmin/docker-dotnet-k8s-app/obj/Debug/net8.0/StudentApp.MvcApplicationPartsAssemblyInfo.csutf-8

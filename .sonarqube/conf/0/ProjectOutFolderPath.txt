@@ -1,0 +1,1 @@
+/home/azadmin/docker-dotnet-k8s-app/.sonarqube/out/0

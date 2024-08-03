@@ -1,0 +1,15 @@
+﻿/home/azadmin/docker-dotnet-k8s-app/Controllers/StudentsController.cs
+/home/azadmin/docker-dotnet-k8s-app/Models/Student.cs
+/home/azadmin/docker-dotnet-k8s-app/Models/StudentContext.cs
+/home/azadmin/docker-dotnet-k8s-app/Program.cs
+/home/azadmin/docker-dotnet-k8s-app/obj/Debug/net8.0/StudentApp.GlobalUsings.g.cs
+/home/azadmin/docker-dotnet-k8s-app/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+/home/azadmin/docker-dotnet-k8s-app/obj/Debug/net8.0/StudentApp.AssemblyInfo.cs
+/home/azadmin/docker-dotnet-k8s-app/obj/Debug/net8.0/StudentApp.MvcApplicationPartsAssemblyInfo.cs
+/home/azadmin/docker-dotnet-k8s-app/appsettings.Development.json
+/home/azadmin/docker-dotnet-k8s-app/appsettings.json
+/home/azadmin/docker-dotnet-k8s-app/.dockerignore
+/home/azadmin/docker-dotnet-k8s-app/Dockerfile
+/home/azadmin/docker-dotnet-k8s-app/README.md
+/home/azadmin/docker-dotnet-k8s-app/StudentApp.http
+/home/azadmin/docker-dotnet-k8s-app/Properties/launchSettings.json

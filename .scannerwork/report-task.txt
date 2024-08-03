@@ -1,0 +1,6 @@
+projectKey=dotnet-codescan_dotnet-codescan_AZD6dIwX3ZeLiKiW0VXq
+serverUrl=http://sonarvm.eastus.cloudapp.azure.com:9000
+serverVersion=9.8.0.63668
+dashboardUrl=http://sonarvm.eastus.cloudapp.azure.com:9000/dashboard?id=dotnet-codescan_dotnet-codescan_AZD6dIwX3ZeLiKiW0VXq
+ceTaskId=AZEYaIeLYGuZyAvxnugG
+ceTaskUrl=http://sonarvm.eastus.cloudapp.azure.com:9000/api/ce/task?id=AZEYaIeLYGuZyAvxnugG
